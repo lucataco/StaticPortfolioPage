@@ -1,0 +1,98 @@
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
+	
+	.icon-dribbble {
+		background-image: url(../img/i/dribbble@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-github {
+		background-image: url(../img/i/github@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-twitter {
+		background-image: url(../img/i/twitter@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-facebook {
+		background-image: url(../img/i/facebook@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-forrst {
+		background-image: url(../img/i/forrst@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-mail {
+		background-image: url(../img/i/mail@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-behance {
+		background-image: url(../img/i/behance@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-deviantart {
+		background-image: url(../img/i/deviantart@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-skype {
+		background-image: url(../img/i/skype@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-appnet {
+		background-image: url(../img/i/appnet@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-googleplus {
+		background-image: url(../img/i/gplus@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-youtube {
+		background-image: url(../img/i/youtube@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-pinterest {
+		background-image: url(../img/i/pinterest@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-instagram {
+		background-image: url(../img/i/instagram@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-flickr {
+		background-image: url(../img/i/flickr@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-vimeo {
+		background-image: url(../img/i/vimeo@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-tumblr {
+		background-image: url(../img/i/tumblr@2x.png);
+		background-size: 100%;
+	}
+	
+	.icon-linkedin {
+		background-image: url(../img/i/linkedin@2x.png);
+		background-size: 100%;
+	}
+	
+	#avatar {
+		background-image: url(../img/avatar@2x.jpg);
+		background-size: 100%;
+	}
+	
+}

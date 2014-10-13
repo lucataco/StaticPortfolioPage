@@ -1,0 +1,336 @@
+/* ICONS */
+
+.icon-dribbble {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/dribbble.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-github {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/github.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-twitter {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/twitter.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-facebook {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/facebook.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-forrst {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/forrst.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-mail {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/mail.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-behance {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/behance.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-deviantart {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/deviantart.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-skype {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/skype.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-appnet {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/appnet.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-googleplus {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/gplus.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-youtube {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/youtube.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-pinterest {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/pinterest.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-instagram {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/instagram.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-flickr {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/flickr.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-vimeo {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/vimeo.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-tumblr {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/tumblr.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+.icon-linkedin {
+	width: 20px;
+	height: 20px;
+	background-image: url(../img/i/linkedin.png);
+	background-position: center top;
+	float: left;
+	cursor: pointer;
+	margin-left: 40px;
+}
+
+/* HOVER ICONS */
+
+.icon-dribbble:hover {
+	background-position: center bottom;
+}
+
+.icon-github:hover {
+	background-position: center bottom;
+}
+
+.icon-twitter:hover {
+	background-position: center bottom;
+}
+
+.icon-facebook:hover {
+	background-position: center bottom;
+}
+
+.icon-forrst:hover {
+	background-position: center bottom;
+}
+
+.icon-mail:hover {
+	background-position: center bottom;
+}
+
+.icon-behance:hover {
+	background-position: center bottom;
+}
+
+.icon-deviantart:hover {
+	background-position: center bottom;
+}
+
+.icon-skype:hover {
+	background-position: center bottom;
+}
+
+.icon-appnet:hover {
+	background-position: center bottom;
+}
+
+.icon-googleplus:hover {
+	background-position: center bottom;
+}
+
+.icon-youtube:hover {
+	background-position: center bottom;
+}
+
+.icon-pinterest:hover {
+	background-position: center bottom;
+}
+
+.icon-instagram:hover {
+	background-position: center bottom;
+}
+
+.icon-flickr:hover {
+	background-position: center bottom;
+}
+
+.icon-vimeo:hover {
+	background-position: center bottom;
+}
+
+.icon-tumblr:hover {
+	background-position: center bottom;
+}
+
+.icon-linkedin:hover {
+	background-position: center bottom;
+}
+
+/* ACTIVE ICONS */
+
+.icon-dribbble:active {
+	margin-top: 1px;
+}
+
+.icon-github:active {
+	margin-top: 1px;
+}
+
+.icon-twitter:active {
+	margin-top: 1px;
+}
+
+.icon-facebook:active {
+	margin-top: 1px;
+}
+
+.icon-forrst:active {
+	margin-top: 1px;
+}
+
+.icon-mail:active {
+	margin-top: 1px;
+}
+
+.icon-behance:active {
+	margin-top: 1px;
+}
+
+.icon-deviantart:active {
+	margin-top: 1px;
+}
+
+.icon-skype:active {
+	margin-top: 1px;
+}
+
+.icon-appnet:active {
+	margin-top: 1px;
+}
+
+.icon-googleplus:active {
+	margin-top: 1px;
+}
+
+.icon-youtube:active {
+	margin-top: 1px;
+}
+
+.icon-pinterest:active {
+	margin-top: 1px;
+}
+
+.icon-instagram:active {
+	margin-top: 1px;
+}
+
+.icon-flickr:active {
+	margin-top: 1px;
+}
+
+.icon-vimeo:active {
+	margin-top: 1px;
+}
+
+.icon-tumblr:active {
+	margin-top: 1px;
+}
+
+.icon-linkedin:active {
+	margin-top: 1px;
+}
+
+ 
+/* DEFINE FIRST ICON (NO LEFT MARGING) */
+
+.first-icon {
+	margin-left: 0px;
+}
